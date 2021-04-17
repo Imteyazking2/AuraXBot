@@ -79,7 +79,7 @@ notifications in Update Channel.
 
 
 <h5>StringSession</h5>
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@itzgauravv/AuraXVCBot#main.py) 
+ [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@itzgauravv/AuraXVCBot#main.py) 
 
 <h3 align="center">⚔️ The Normal Way ⚔️</h3>
 
