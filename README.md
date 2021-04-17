@@ -66,8 +66,6 @@ notifications in Update Channel.
 
 <h1>How To Deploy Äµråxßð†</h1>
 
-</details>
-
 <h2 align="center">⚙️ Set-Up ⚙️</h2>
 
 <h3 align="center">✨ The Easy Way ✨</h3>
