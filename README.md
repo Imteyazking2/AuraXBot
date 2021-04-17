@@ -72,7 +72,7 @@ notifications in Update Channel.
 </a>
 
 ### StringSession
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@itzgauravv/AuraXVCBot#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@itzgauravv/AuraXBot#main.py) 
 
 <h3 align="center">⚡ The Normal Way ⚡</h3>
 
