@@ -6,7 +6,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/AuraXNetwork/AuraXBot)
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/AuraX_Owner)
 
-<h1 align="center">⚡ †hê Hêllẞø† ⚡</h1>
+<h1 align="center">⚡ Äµråxßð† ⚡</h1>
 
 <h4 align="center">AuraXBot</h4>
 
@@ -18,7 +18,7 @@ Don't forget to star this repo if you liked it.
 
 Enjoy Your Bot!!💝
 
-[![AuraXBot logo](https://telegra.ph/file/2165457cc7e428ff64919.jpg)](https://t.me/AuraXUserbot)
+[![AuraXBot logo](https://telegra.ph/file/62b6e6a1bb6ed711401ce.jpg)](https://t.me/AuraXUserbot)
 
 ### The owner would not be responsible for any kind of bans due to the bot...
 
@@ -44,7 +44,7 @@ Enjoy Your Bot!!💝
 
 Get help regarding setting up 
 
-your Hêllẞø† in our official 
+your Äµråxßð† in our official 
 
 support Group and get updates
 
@@ -54,7 +54,7 @@ notifications in Update Channel.
 
 <a href="https://t.me/AuraXUserbot"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-<a href="https://t.me/AuraXUserbot_Chat"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/AuraXSupport"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 </details>
 
@@ -64,17 +64,11 @@ notifications in Update Channel.
 
 ```
 
-Official YouTube Channel Of Hêllẞø†.
+Official YouTube Channel Of Äµråxßð†.
 
 Click on the link below to get tutorial on 
 
-How To Deploy Hêllẞø†.
-
-```
-
-<a href="https://youtu.be/M2FQJq_sHp4"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
-
-<a href="https://youtu.be/M2FQJq_sHp4"><img src="https://img.shields.io/youtube/views/M2FQJq_sHp4?style=social"></a>
+How To Deploy Äµråxßð†.
 
 </details>
 
@@ -84,15 +78,15 @@ How To Deploy Hêllẞø†.
 
 <h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FHellBoy-OP%2FAuraXBot&template=https%3A%2F%2Fgithub.com%2FHellBoy-OP%2FAuraXBot" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FAuraXNetwork%2FAuraXBot&template=https%3A%2F%2Fgithub.com%2FAuraXNetwork%2FAuraXBot" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 
 </a>
 
 <h3 align="center">⚔️ The Normal Way ⚔️</h3>
 
-<h4 align="center">To host Héllẞø† locally or on any other VPS, Go to</h4>
+<h4 align="center">To host  Äµråxßð† locally or on any other VPS, Go to</h4>
 
-<h2 align="center"> <a href="https://github.com/thevaders/vader">⚡ VΛDΣЯ REPO ⚡</a></h2>
+<h2 align="center"> <a href="https://github.com/AuraXNetwork/AuraXUserbot">⚡ AuraXBot REPO ⚡</a></h2>
 
 ## Mandatory Vars
 
@@ -112,7 +106,7 @@ How To Deploy Hêllẞø†.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 HellBoy-OP
+Copyright (C) 2021 AuraXNetwork
 
 Poject [AuraXBot](https://github.com/AuraXNetwork/AuraXBot) is free software: you can redistribute it and/or modify
 
