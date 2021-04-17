@@ -58,11 +58,7 @@ notifications in Update Channel.
 
 </details>
 
-<details>
 
-
-
- 
 
 <h1>How To Deploy Äµråxßð†</h1>
 
