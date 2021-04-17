@@ -60,15 +60,11 @@ notifications in Update Channel.
 
 <details>
 
-  <summary> Video Tutorial 📺 </summary>
 
-```
 
-Official YouTube Channel Of Äµråxßð†.
+ 
 
-Click on the link below to get tutorial on 
-
-How To Deploy Äµråxßð†.
+<h1>How To Deploy Äµråxßð†</h1>
 
 </details>
 
