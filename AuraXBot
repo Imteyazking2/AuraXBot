@@ -4,19 +4,19 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $AuraX_REPO == "AuraXBot" ]]
+    if [[ $AURAX_REPO == "AuraXBot" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0F1cmFYTmV0d29yay9BdXJhWFVzZXJib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
-    elif [[ $AuraX_REPO == "AuraXBot" ]]
+    elif [[ $AURAX_REPO == "AuraXBot" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0F1cmFYTmV0d29yay9BdXJhWFVzZXJib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
-    elif [[ $AuraX_REPO =~ $regex ]]
+    elif [[ $AURAX_REPO =~ $regex ]]
     then
-        if [[ $AuraX_REPO_BRANCH ]]
+        if [[ $AURAX_REPO_BRANCH ]]
         then
-            echo "${AuraX_REPO}/archive/${AuraX_REPO_BRANCH}.zip"
+            echo "${AURAX_REPO}/archive/${AURAX_REPO_BRANCH}.zip"
         else
-            echo "${AuraX_REPO}/archive/master.zip"
+            echo "${AURAX_REPO}/archive/master.zip"
         fi
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL0F1cmFYTmV0d29yay9BdXJhWFVzZXJib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
@@ -30,13 +30,13 @@ _set_bot () {
     echo "  Downloading source code ..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
-    AuraXPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    AURAXPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
     echo "  Cleaning ..."
     rm -rf "$zippath"
     sleep 5
-    cd $AuraXPATH
+    cd $AURAXPATH
     echo "    Starting AuraXBot    "
     echo "
     ┏━━━┓          ┏┓    ┏┓
